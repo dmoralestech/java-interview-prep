@@ -1,8 +1,6 @@
-# java-interview-prep
+# java-study-guide
 
 core basics
-
-collections
 
 design patterns
 
@@ -17,5 +15,9 @@ concurrency and parallelism
 
 
 microservices
+
+spring boot
+
+rest
 
 
